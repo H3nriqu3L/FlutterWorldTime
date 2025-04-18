@@ -1,16 +1,9 @@
-# world_time
+# World Time Flutter App
 
-A new Flutter project.
+This project is a Flutter app that shows the time in various locations around the world. The background images change depending on the location and the time of day in that location.
 
-## Getting Started
+The app was created as part of a Flutter training, with tutorials and inspiration taken from the Flutter tutorials by the Net Ninja channel on YouTube.
 
-This project is a starting point for a Flutter application.
+![App London Screenshot](app_london_screen.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Beijing Screenshot](app_beijing_screen.jpeg)
